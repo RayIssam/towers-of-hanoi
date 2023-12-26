@@ -1,4 +1,6 @@
-<p align="center">
-  <img src="https://github.com/RayIssam/towers-of-hanoi/blob/main/assets/105173457/58288191-533b-4486-b449-871e693fbea5.png" width="400" alt="Image 1">
-  <img src="https://github.com/RayIssam/towers-of-hanoi/blob/main/assets/105173457/ae28fb16-7bd0-4309-a048-e26975c8cfc5.png" width="400" alt="Image 2">
-</p>
+TOWER OF HANOI 
+
+- The Tower of Hanoi is a classic problem in computer science and mathematics.
+- Proposed by the French mathematician Edouard Lucas in 1883.
+- This project focuses on the algorithmic analysis of solving the Tower of Hanoi problem.
+![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/4fdf42e6-275d-47d3-b1ee-3786bd5ce22a)
