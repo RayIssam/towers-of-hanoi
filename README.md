@@ -1,4 +1,4 @@
-![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/4ab4b07c-4821-41bd-907d-0a2199567a83)
+![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/a5693b60-249b-417f-bbc5-d12dfb3eb12b)![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/4ab4b07c-4821-41bd-907d-0a2199567a83)
 
 
 # TOWER OF HANOI PROBLEM: AN ALGORITHMIC ANALYSIS
@@ -22,7 +22,17 @@
 # RECURSIVE APPROACH
 <img width="319" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/37a7e609-adba-4ac4-a5d6-b563d8367c22">
 
-#ITERATIVE APPROACH
+# ITERATIVE APPROACH
 <img width="318" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/651d61b9-39ad-4e15-8c70-39e68a076ec2">
 
 
+# CONCLUSION OF THE PERFORMANCE COMPARISON
+
+1. Performance Analysis
+
+Small Values of n:
+No significant differences observed between recursive and iterative approaches.
+Large Values of n:
+Iterative approach tends to be faster due to lower overhead.
+Unexpected Findings:
+In my experiments, the recursive approach often demonstrated slightly faster performance with large values of n.
