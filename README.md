@@ -1,4 +1,4 @@
-![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/a5693b60-249b-417f-bbc5-d12dfb3eb12b)![image](https://github.com/RayIssam/towers-of-hanoi/assets/105173457/4ab4b07c-4821-41bd-907d-0a2199567a83)
+# TowersOfHanoi
 
 
 # TOWER OF HANOI PROBLEM: AN ALGORITHMIC ANALYSIS
