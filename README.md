@@ -25,11 +25,11 @@
     2. Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or an empty peg.
     3. No disk may be placed on top of a smaller disk.
 
-#GUI screenshots 
-# RECURSIVE APPROACH
+# GUI screenshots 
+* RECURSIVE APPROACH
 <img width="319" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/37a7e609-adba-4ac4-a5d6-b563d8367c22">
 
-# ITERATIVE APPROACH
+* ITERATIVE APPROACH
 <img width="318" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/651d61b9-39ad-4e15-8c70-39e68a076ec2">
 
 # Usage
