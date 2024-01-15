@@ -34,9 +34,10 @@
 
 # Usage
 - To run the program:
+   1. Ensure Python 3 is installed.
+   2 .Execute the script tower_of_hanoi.py.
 
-1- Ensure Python 3 is installed.
-2- Execute the script tower_of_hanoi.py.
+
 
 # CONCLUSION OF THE PERFORMANCE COMPARISON
 
