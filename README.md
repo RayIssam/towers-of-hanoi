@@ -1,4 +1,4 @@
-# TowersOfHanoi
+# Towers Of Hanoi
 
 
 # TOWER OF HANOI PROBLEM: AN ALGORITHMIC ANALYSIS
