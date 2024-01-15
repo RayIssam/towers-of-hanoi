@@ -5,11 +5,18 @@
 - The Tower of Hanoi is a classic problem in computer science and mathematics.
 - Proposed by the French mathematician Edouard Lucas in 1883.
 - This project focuses on the algorithmic analysis of solving the Tower of Hanoi problem.
-  
-# PROBLEM STATEMENT
+
+ # PROBLEM STATEMENT
 - Definition of the Tower of Hanoi problem:
   - Three pegs and a number of disks of different sizes.
   - The puzzle starts with the disks in a neat stack in ascending order of size on one peg, the smallest at the top.
+
+#  Features
+* Recursive Algorithm: Utilizes recursive logic to solve the Tower of Hanoi puzzle.
+* Iterative Algorithm: Implements an iterative approach for Tower of Hanoi problem-solving.
+* User Interface: Provides a graphical user interface to input the number of discs and select the solving algorithm.
+  
+
 
 # OBJECTIVE
 - The primary objective:
@@ -25,6 +32,11 @@
 # ITERATIVE APPROACH
 <img width="318" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/651d61b9-39ad-4e15-8c70-39e68a076ec2">
 
+# Usage
+- To run the program:
+
+1- Ensure Python 3 is installed.
+2- Execute the script tower_of_hanoi.py.
 
 # CONCLUSION OF THE PERFORMANCE COMPARISON
 
