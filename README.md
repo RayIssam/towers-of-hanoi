@@ -33,11 +33,9 @@
 <img width="318" alt="image" src="https://github.com/RayIssam/towers-of-hanoi/assets/105173457/651d61b9-39ad-4e15-8c70-39e68a076ec2">
 
 # Usage
-- To run the program:
-   1. Ensure Python 3 is installed.
-   2 .Execute the script tower_of_hanoi.py.
-
-
+ - To run the program:
+    1. Ensure Python 3 is installed.
+    2. Execute the script tower_of_hanoi.py.
 
 # CONCLUSION OF THE PERFORMANCE COMPARISON
 
